@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495919377 source:c:\users\gabri\documents\programação\estrutura de dados\aps\aps- prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
